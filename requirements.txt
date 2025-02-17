@@ -1,0 +1,12 @@
+opencv-python==4.11.0
+keras==3.8.0
+matplotlib==3.10.0
+numpy==1.26.4
+seaborn==0.13.2
+session-info==1.0.0
+scikit-learn==1.6.1
+tensorflow==2.18.0
+ipython==7.34.0
+jupyter-client==6.1.12
+jupyter-core==5.7.2
+notebook==6.5.5
